@@ -1,0 +1,172 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .top-head {
+        display: none;
+    }
+    .navbar-light .navbar-toggler {
+        color: rgb(255 94 0 / 85%);
+        border-color: #ffffff;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        padding-right: 0;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .banner h1 {
+     
+        font-size: 38px;
+       
+    }
+    .state{
+        display: none;
+    }
+    .btn-jnoi {
+        margin-top: 50px;
+        margin-bottom: 10px;
+        margin-left: 16px;
+
+    }
+    .btn-cntct{
+        margin-top: 40px;
+    }
+    .info-div {
+        box-shadow: 0px 0px 3px #000;
+        margin: 20px 0;
+    }
+    .mining ul{
+        display: inherit;
+    }
+    .mining{
+        text-align: center;
+    }
+    .bit-box{
+        margin-bottom: 30px;
+    }
+    .pen {
+        left: 4%;
+        bottom: 40%;
+    }
+    input {
+        margin-bottom: 27px;
+    }
+    .paxlar{
+        text-align: center;
+    }
+    .line ul{
+        justify-content: center;
+    }
+    .company{
+        justify-content: center;
+    }
+    .contact{
+        text-align: center;
+    }
+    .addres{
+        justify-content: center;
+    }
+    .recuring-box{
+        margin: auto;
+    }
+    .recuring h5{
+        text-align: center;
+    }
+    .wall-box{
+        margin: auto;
+    }
+    .wall h5{
+        margin-right: 0;
+        text-align: center;
+    }
+    .wall{
+        margin-bottom: 40px;
+    }
+    .exchange-box{
+        margin: auto;
+    }
+    .exchange h5{
+        text-align: center;
+    }
+    .exchange{
+        margin-bottom: 40px;
+        margin-top: 40px;
+    }
+    .mobile {
+        margin-left: 0;
+        text-align: center;
+        margin-top: 40px;
+    }
+    .mobile-box{
+        margin: auto;
+    }
+    .support-box{
+        margin: auto;
+    }
+    .support h5{
+        text-align: center;
+    }
+    .cross-box{
+        margin:auto;
+    }
+    .rotate h5{
+        text-align: center;
+    }
+    .rotate{
+        margin-bottom: 40px;
+    }
+    .iphone{
+        display: none;
+    }
+    .contact span{
+        margin: auto;
+    }
+    .snd-banner h1{
+        text-align: center;
+    }
+    .snd-banner span{
+        margin:auto;
+    }
+    .step {
+        width: 74%;
+    }
+    .step h4 {
+        color: #ffffff;
+        font-size: 16px;
+    }
+    .step p {
+        font: 13px;
+    }
+    .row {
+        --bs-gutter-x:0;
+    }
+    .hov{
+        margin-bottom: 40px;
+    }
+      
+}
+
+  @media (min-width: 375px){
+    .pen{
+        bottom: 32%;
+    }
+}
